@@ -22,6 +22,7 @@ python main.py
 # Inference
 python inference.py
 ```
+My model weights can be downloaded [Here](https://drive.google.com/drive/folders/1dBNoBXIAdM_vgFuINSSyQm9zEtAjGxwR?usp=sharing)!
 
 ## Performance snapshot
 A shapshot of the leaderboard
