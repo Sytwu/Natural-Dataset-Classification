@@ -4,7 +4,9 @@ Name: Li-Zhong Szu-Tu (司徒立中)
 
 ## Introduction
 In this task, the dataset comprises multiple categories of plants, insects, and birds, with a total of 21,024 images for training/validation and 2,344 images for testing.
-In my implementation, I utilize the ResNeSt-200 architecture and apply techniques such as CutMix, fine-tuning, cross-validation, periodic merging, and more.
+In my implementation, I utilize the ResNeSt-200 architecture and apply techniques such as CutMix, fine-tuning, cross-validation, periodic merging, and more. \
+\
+The dataset can be downloaded [Here](https://drive.google.com/file/d/1fx4Z6xl5b6r4UFkBrn5l0oPEIagZxQ5u/view)!
 
 ## How to install
 How to install dependences
